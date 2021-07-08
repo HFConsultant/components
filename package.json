@@ -1,7 +1,7 @@
 {
   "name": "widgets",
   "version": "0.1.0",
-  "homepage": "https://HFConsultant.github.io/components",
+  "homepage": "https://hfconsultant.github.io/components",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
@@ -18,7 +18,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b main -d build",
+    "deploy": "gh-pages -b master -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
