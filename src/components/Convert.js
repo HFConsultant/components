@@ -23,7 +23,7 @@ const [debouncedText, setDebouncedText] = useState(text);
           params: {
             q: debouncedText,
             target: language.value,
-            key: 'AIzaSyCE6U-urdc_nAwtsEzzcZv_PelQxeJk6yw'
+            key: 'e85114ff7af1779b3e7b9f028c33d5f2dee055e0'
           },
         }
       );
